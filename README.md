@@ -1,6 +1,4 @@
-# Lập trình xử lý ảnh
-
-## Nội dung:
+# Nội dung:
 
 *   [0 - Giới thiệu công cụ](https://colab.research.google.com/drive/1K0JiGCDesbQC7YEX22VFQvxWJ0YSrOXz?usp=sharing)
 *   [1 - Làm quen với dữ liệu ảnh](https://colab.research.google.com/drive/13VzqWzKdtyJB6PL7-2kM-er0bsVccN5O?usp=sharing)
